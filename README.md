@@ -13,7 +13,7 @@ You can install this extension in two different ways:
 - By downloading the offline package directly on the following link : https://www.interactive-comments.com/download
 
 ## How to use
-Just insert a xml <math> </math> tag in your comments, what ever the programming language used.  
+Just insert a xml `<math> </math>` tag in your comments, **what ever the programming language used**.  
 You can find more information and example on the following link : https://www.interactive-comments.com/faq
 
 ## Features
