@@ -1,6 +1,8 @@
+<a href="https://www.interactive-comments.com">                               
 <p align="center">
     <img src="./images/Logo.png" alt="Interactive-Comments logo banner"/>
 </p>
+</a>
 
 ## Interactive-Comments
 **Interactive Comments** is a plug-in for Visual Studio that improves interactivity with your source code.  
@@ -32,9 +34,11 @@ You can find more information and example on the following link : https://www.in
 // <math> det(A) = \forall_{i \in \{1, \dots, n\}}\sum_{j=1}^{n} (-1)^{i+j}\hspace{.3em}a_{ij} \hspace{.3em}det(A_{ij}) </math>
 ```
 
+<a href="#">
 <p align="center">
     <img src="./images/Image1.png" alt="Image1"/>
 </p>
+</a>
 
 ### --&#9658; Multi-lines math tag
 ```cpp
@@ -46,7 +50,9 @@ You can find more information and example on the following link : https://www.in
 //	\end{pmatrix}
 // </math>
 ```
-
+    
+<a href="#">
 <p align="center">
     <img src="./images/Image2.png" alt="Image2"/>
 </p>
+</a>
