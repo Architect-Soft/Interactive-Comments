@@ -37,7 +37,9 @@ You can find more information and examples on the following link : https://www.i
 
 <a href="#">
 <p align="center">
-    <img src="./images/Image1.png" alt="Image1"/>
+    <kbd>
+        <img src="./images/Image1.png" alt="Image1"/>
+    </kbd>
 </p>
 </a>
 
@@ -51,9 +53,11 @@ You can find more information and examples on the following link : https://www.i
 //	\end{pmatrix}
 // </math>
 ```
-    
+
 <a href="#">
 <p align="center">
-    <img src="./images/Image2.png" alt="Image2"/>
+    <kbd>
+        <img src="./images/Image2.png" alt="Image2"/>
+    </kbd>
 </p>
 </a>
