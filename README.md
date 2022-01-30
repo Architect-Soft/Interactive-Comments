@@ -4,29 +4,30 @@
 </p>
 </a>
 
-## Interactive-Comments
-**Interactive Comments** is a plug-in for Visual Studio that improves interactivity with your source code.  
-You have **free 60-Day trial** to evaluate it, after which you have to purchase a license : https://www.interactive-comments.com/buy
+## Interactive Comments for Visual Studio 2019
+**Interactive Comments** is a plug-in for Visual Studio 2019 that improves interactivity with your source code.  
+You have a **free 60-Day trial** to evaluate it, after which you have to purchase an annual subscription license : https://www.interactive-comments.com/buy
 
-## Install
+## Installation
 
-You can install this extension in two different ways:
-- By using the visual studio "Manage Extensions dialog" and searching **Interactive Comments** on the **Visual Studio Marketplace**
-- By downloading the offline package directly on the following link : https://www.interactive-comments.com/download
+You can install this extension in several different ways:
+- By using the **Manage Extensions dialog** in Visual Studio and searching for **Interactive Comments** on the **Visual Studio Marketplace**
+- By searching directly for **Interactive Comments** on the **Visual Studio Marketplace** website : https://marketplace.visualstudio.com/
+- By downloading the offline package directly from the following link : https://www.interactive-comments.com/download
 
 ## How to use
-Just insert a xml `<math> </math>` tag in your comments, **what ever the programming language used**.  
-You can find more information and example on the following link : https://www.interactive-comments.com/faq
+Just insert a XML `<math> </math>` tag in your comments, **whatever programming language you use**.  
+You can find more information and examples on the following link : https://www.interactive-comments.com/faq
 
 ## Features
 ### Tex Math expression 
 &#9658; Real-time offline rendering  
 &#9658; Analysis of mathematical tags in comments in real time  
 &#9658; Low memory footprint  
-&#9658; Silent tag parsing to avoid to slowdown the code writing   
-&#9658; Final rendering image integration directly in the source code  
-&#9658; Multi programming languages support : C++, C, C#, Python, F#, Fortran, Visual Basic, R, Assembly, Javascript / Typescript  
-&#9658; Multi-lines support  
+&#9658; Low CPU footprint : Silent tag parsing to avoid slowing down code writing   
+&#9658; Integration of the final rendering image directly into the source code  
+&#9658; Support for several programming languages : C++, C, C#, Python, F#, Fortran, Visual Basic, R, Assembly, Javascript / Typescript  
+&#9658; Multi-line support for large mathematical expressions
 
 ## C++ Examples
 ### --&#9658; Mono-line math tag
